@@ -1,0 +1,5 @@
+var = "Minhas Butt"
+print("Enter your age: ")
+age = int(input())
+
+print(var[0:6], "is", age, "years old.")
